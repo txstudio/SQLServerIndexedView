@@ -1,3 +1,10 @@
+/*
+	此範例指令碼請執行於 AdventureWork2017 範例資料庫
+	
+	1. 使用標準 View 
+	2. 使用 Index View 
+*/
+
 --建立標準 View
 --DROP VIEW [Sales].[SalesOrdersNormalView]
 --GO
